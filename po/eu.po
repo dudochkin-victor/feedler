@@ -1,0 +1,310 @@
+# Basque translation for feedler
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the feedler package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: feedler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-29 08:01+0200\n"
+"PO-Revision-Date: 2012-10-09 19:17+0000\n"
+"Last-Translator: Asier Iturralde Sarasola <Unknown>\n"
+"Language-Team: Basque <eu@li.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-09 05:35+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+#: ../src/ui/view-cell.vala:53
+#, c-format
+msgid "%s, by %s"
+msgstr "%s, egilea: %s"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Add a subscriptions from OPML file."
+msgstr "Gehitu harpidetzak OPML fitxategi batetik abiatuta."
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Add manually subscriptions from URL."
+msgstr "Gehitu harpidetzak eskuz URL bat erabiliz."
+
+#: ../src/ui/statusbar.vala:49
+msgid "Add new subscription URL"
+msgstr "Gehitu harpidetza URL berria"
+
+#: ../src/window.vala:674
+msgid "Are you sure you want to delete?"
+msgstr "Ziur zaude hau ezabatu nahi duzula?"
+
+#: ../src/window.vala:633 ../src/window.vala:655
+msgid "Are you sure you want to mark as read?"
+msgstr "Ziur zaude irakurri gisa markatu nahi duzula?"
+
+#: ../src/ui/preferences.vala:110
+msgid "Behavior"
+msgstr "Portaera"
+
+#: ../src/ui/folder.vala:30 ../src/ui/subscription.vala:36
+msgid "Cancel"
+msgstr "Utzi"
+
+#: ../src/ui/preferences.vala:60
+msgid "Content:"
+msgstr "Edukia:"
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Create"
+msgstr "Sortu"
+
+#: ../src/ui/menu.vala:13
+msgid "Delete"
+msgstr "Ezabatu"
+
+#: ../src/ui/infobar.vala:21
+msgid "Dismiss"
+msgstr "Baztertu"
+
+#: ../src/ui/menu.vala:37
+msgid "Display"
+msgstr "Pantaila"
+
+#: ../src/desktop-launcher.vala:13
+msgid "Download and view feeds"
+msgstr "Deskargatu eta ikusi jarioak"
+
+#: ../src/ui/preferences.vala:91
+msgid "Download now all favicons:"
+msgstr "Deskargatu orain favicon guztiak:"
+
+#: ../src/window.vala:526 ../src/window.vala:541
+msgid "Downloading favicons"
+msgstr "Faviconak deskargatzen"
+
+#: ../src/ui/preferences.vala:65
+msgid "Enable Java:"
+msgstr "Gaitu Java:"
+
+#: ../src/ui/preferences.vala:64
+msgid "Enable JavaScripts:"
+msgstr "Gaitu JavaScript:"
+
+#: ../src/ui/preferences.vala:87
+msgid "Enable automatic updates:"
+msgstr "Gaitu eguneraketa automatikoak:"
+
+#: ../src/ui/preferences.vala:61
+msgid "Enable images:"
+msgstr "Gaitu irudiak:"
+
+#: ../src/ui/preferences.vala:63
+msgid "Enable plugins:"
+msgstr "Gaitu pluginak:"
+
+#: ../src/ui/preferences.vala:88
+msgid "Enable updates on start:"
+msgstr "Gaitu eguneraketak abiatzean:"
+
+#: ../src/ui/contractor.vala:38
+msgid "Export subscriptions"
+msgstr "Esportatu harpidetzak"
+
+#: ../src/ui/preferences.vala:90
+msgid "Favicons:"
+msgstr "Favicon-ak:"
+
+#: ../src/desktop-launcher.vala:14
+msgid "Feedler News Reader"
+msgstr "Feedler berri irakurgailua"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Feedler can't seem to find your feeds."
+msgstr "Feedler-ek ezin izan ditu zure jarioak aurkitu"
+
+#: ../src/ui/menu.vala:17 ../src/ui/subscription.vala:49
+#, c-format
+msgid "Folder"
+msgstr "Karpeta"
+
+#: ../src/ui/toolbar.vala:63
+msgid "Fullscreen"
+msgstr "Pantaila osoa"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Get Some Feeds"
+msgstr "Lortu jario batzuk"
+
+#: ../src/ui/statusbar.vala:58
+msgid "Go to the channel with unread items"
+msgstr "Joan irakurri gabeko elementuak dituen kanalera"
+
+#: ../src/ui/toolbar.vala:98
+msgid "Go to the next readed item"
+msgstr "Joan irakurritako hurrengo elementura"
+
+#: ../src/ui/toolbar.vala:97
+msgid "Go to the previous readed item"
+msgstr "Joan irakurritako aurreko elementura"
+
+#: ../src/ui/preferences.vala:68
+msgid "Hide window on start to the messaging menu:"
+msgstr "Itxi leihoa abiatzean mezuen menura:"
+
+#: ../src/ui/preferences.vala:67
+msgid "Hiding window instead of closing:"
+msgstr "Leihoa izkutatu itxi ordez:"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Import"
+msgstr "Inportatu"
+
+#: ../src/ui/statusbar.vala:55
+msgid "Import subscription from OPML"
+msgstr "Inportatu harpidetza OPML-tik"
+
+#: ../src/window.vala:330
+#, c-format
+msgid "Imported %i channels in %i folders."
+msgstr "%i kanal inportatu dira %i karpetatan."
+
+#: ../src/window.vala:579
+msgid "Importing subscriptions"
+msgstr "Harpidetzak inportatzen"
+
+#: ../src/ui/subscription.vala:40
+msgid "Load favicon"
+msgstr "Kargatu favicon-a"
+
+#: ../src/ui/statusbar.vala:61
+msgid "Mark all items as read"
+msgstr "Markatu elementu guztiak irakurrita gisa"
+
+#: ../src/ui/menu.vala:12 ../src/ui/menu.vala:39
+msgid "Mark as read"
+msgstr "Markatu irakurrita gisa"
+
+#: ../src/ui/menu.vala:40
+msgid "Mark as unread"
+msgstr "Markatu irakurri gabeko gisa"
+
+#: ../src/ui/toolbar.vala:100
+msgid "Menu"
+msgstr "Menua"
+
+#: ../src/ui/folder.vala:24 ../src/ui/folder.vala:40
+#: ../src/ui/subscription.vala:29 ../src/ui/subscription.vala:52
+#, c-format
+msgid "Name"
+msgstr "Izena"
+
+#: ../src/ui/menu.vala:15
+msgid "New"
+msgstr "Berria"
+
+#: ../src/ui/menu.vala:38
+msgid "Open in browser"
+msgstr "Ireki arakatzailean"
+
+#: ../src/ui/preferences.vala:104 ../src/ui/toolbar.vala:64
+msgid "Preferences"
+msgstr "Hobespenak"
+
+#: ../src/ui/menu.vala:14
+msgid "Properties"
+msgstr "Propietateak"
+
+#: ../src/ui/toolbar.vala:99
+msgid "Refresh all subscriptions"
+msgstr "Freskatu harpidetza guztiak"
+
+#: ../src/ui/statusbar.vala:52
+msgid "Remove selected subscription"
+msgstr "Kendu hautatutako harpidetza"
+
+#: ../src/ui/folder.vala:26 ../src/ui/subscription.vala:32
+msgid "Save"
+msgstr "Gorde"
+
+#: ../src/ui/contractor.vala:23
+msgid "Share channels or items"
+msgstr "Partekatu kanalak edo sarrerak"
+
+#: ../src/ui/preferences.vala:62
+msgid "Shrink image to fit:"
+msgstr "Txikiagotu irudiak doitzeko:"
+
+#: ../src/ui/toolbar.vala:62
+msgid "Sidebar Visible"
+msgstr "Albo-barra ikusgai"
+
+#: ../src/ui/menu.vala:16
+msgid "Subscription"
+msgstr "Harpidetza"
+
+#: ../src/ui/preferences.vala:86
+msgid "Subscriptions:"
+msgstr "Harpidetzak:"
+
+#: ../src/ui/preferences.vala:89
+msgid "Time interval between updates:"
+msgstr "Eguneraketen arteko bitartea:"
+
+#: ../src/ui/toolbar.vala:57
+msgid "Type to Search..."
+msgstr "Idatzi bilatzeko..."
+
+#: ../src/ui/subscription.vala:30
+msgid "URI"
+msgstr "URIa"
+
+#: ../src/ui/subscription.vala:56
+#, c-format
+msgid "URI Address"
+msgstr "URI helbidea"
+
+#: ../src/ui/infobar.vala:24
+msgid "Undo"
+msgstr "Desegin"
+
+#: ../src/indicator.vala:28
+msgid "Unread"
+msgstr "Irakurri gabeak"
+
+#: ../src/indicator.vala:24 ../src/ui/menu.vala:11
+msgid "Update"
+msgstr "Eguneratu"
+
+#: ../src/ui/preferences.vala:111
+msgid "Updates"
+msgstr "Eguneraketak"
+
+#: ../src/window.vala:503
+#, c-format
+msgid "Updating %s"
+msgstr "%s eguneratzen"
+
+#: ../src/window.vala:483 ../src/window.vala:509
+msgid "Updating subscriptions"
+msgstr "Harpidetzak eguneratzen"
+
+#: ../src/ui/preferences.vala:66
+msgid "Window:"
+msgstr "Leihoa:"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feed"
+msgstr "jario berria"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feeds"
+msgstr "jario berriak"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feed"
+msgstr "irakurri gabeko jarioa"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feeds"
+msgstr "irakurri gabeko jarioak"

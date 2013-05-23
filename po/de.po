@@ -1,0 +1,310 @@
+# German translation for feedler
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the feedler package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: feedler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-29 08:01+0200\n"
+"PO-Revision-Date: 2012-07-05 13:47+0000\n"
+"Last-Translator: Ghenrik <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-09 05:35+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+#: ../src/ui/view-cell.vala:53
+#, c-format
+msgid "%s, by %s"
+msgstr "%s, von %s"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Add a subscriptions from OPML file."
+msgstr "Abonnements aus einer OPML-Datei hinzufügen."
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Add manually subscriptions from URL."
+msgstr "Abonnements manuell aus URLs hinzufügen."
+
+#: ../src/ui/statusbar.vala:49
+msgid "Add new subscription URL"
+msgstr "Neue Abonnement-URL hinzufügen"
+
+#: ../src/window.vala:674
+msgid "Are you sure you want to delete?"
+msgstr "Sind Sie sicher, dass Sie den Eintrag löschen möchten?"
+
+#: ../src/window.vala:633 ../src/window.vala:655
+msgid "Are you sure you want to mark as read?"
+msgstr "Sind Sie sicher, dass Sie den Eintrag als gelesen markieren möchten?"
+
+#: ../src/ui/preferences.vala:110
+msgid "Behavior"
+msgstr "Verhalten"
+
+#: ../src/ui/folder.vala:30 ../src/ui/subscription.vala:36
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../src/ui/preferences.vala:60
+msgid "Content:"
+msgstr "Inhalt:"
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Create"
+msgstr "Erstellen"
+
+#: ../src/ui/menu.vala:13
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../src/ui/infobar.vala:21
+msgid "Dismiss"
+msgstr "Verbergen"
+
+#: ../src/ui/menu.vala:37
+msgid "Display"
+msgstr "Anzeigen"
+
+#: ../src/desktop-launcher.vala:13
+msgid "Download and view feeds"
+msgstr "Feeds herunterladen und anzeigen"
+
+#: ../src/ui/preferences.vala:91
+msgid "Download now all favicons:"
+msgstr "Jetzt alle Favicons herunterladen:"
+
+#: ../src/window.vala:526 ../src/window.vala:541
+msgid "Downloading favicons"
+msgstr "Favicons werden heruntergeladen"
+
+#: ../src/ui/preferences.vala:65
+msgid "Enable Java:"
+msgstr "Java aktivieren:"
+
+#: ../src/ui/preferences.vala:64
+msgid "Enable JavaScripts:"
+msgstr "JavaScript aktivieren:"
+
+#: ../src/ui/preferences.vala:87
+msgid "Enable automatic updates:"
+msgstr "Automatische Aktualisierungen aktivieren:"
+
+#: ../src/ui/preferences.vala:61
+msgid "Enable images:"
+msgstr "Bilder aktivieren:"
+
+#: ../src/ui/preferences.vala:63
+msgid "Enable plugins:"
+msgstr "Erweiterungen aktivieren:"
+
+#: ../src/ui/preferences.vala:88
+msgid "Enable updates on start:"
+msgstr "Aktualisierungen beim Programmstart aktivieren:"
+
+#: ../src/ui/contractor.vala:38
+msgid "Export subscriptions"
+msgstr "Abonnements exportieren"
+
+#: ../src/ui/preferences.vala:90
+msgid "Favicons:"
+msgstr "Favicons:"
+
+#: ../src/desktop-launcher.vala:14
+msgid "Feedler News Reader"
+msgstr "Feedler – Nachrichten lesen"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Feedler can't seem to find your feeds."
+msgstr "Scheinbar kann Feedler Ihre Nachrichtenfeeds nicht finden."
+
+#: ../src/ui/menu.vala:17 ../src/ui/subscription.vala:49
+#, c-format
+msgid "Folder"
+msgstr "Ordner"
+
+#: ../src/ui/toolbar.vala:63
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Get Some Feeds"
+msgstr "Einige Feeds einrichten"
+
+#: ../src/ui/statusbar.vala:58
+msgid "Go to the channel with unread items"
+msgstr "Zum Kanal mit ungelesenen Einträgen springen"
+
+#: ../src/ui/toolbar.vala:98
+msgid "Go to the next readed item"
+msgstr "Zum nächsten gelesenen Eintrag springen"
+
+#: ../src/ui/toolbar.vala:97
+msgid "Go to the previous readed item"
+msgstr "Zum vorher gelesenen Eintrag zurückkehren"
+
+#: ../src/ui/preferences.vala:68
+msgid "Hide window on start to the messaging menu:"
+msgstr "Das Fenster beim Programmstart in das Nachrichtenmenü verbergen:"
+
+#: ../src/ui/preferences.vala:67
+msgid "Hiding window instead of closing:"
+msgstr "Fenster verbergen, statt zu schließen"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Import"
+msgstr "Importieren"
+
+#: ../src/ui/statusbar.vala:55
+msgid "Import subscription from OPML"
+msgstr "Abonnement aus OPML-Datei importieren"
+
+#: ../src/window.vala:330
+#, c-format
+msgid "Imported %i channels in %i folders."
+msgstr "%i Kanäle in %i Ordner importiert."
+
+#: ../src/window.vala:579
+msgid "Importing subscriptions"
+msgstr "Abonnements werden importiert"
+
+#: ../src/ui/subscription.vala:40
+msgid "Load favicon"
+msgstr "Favicon laden"
+
+#: ../src/ui/statusbar.vala:61
+msgid "Mark all items as read"
+msgstr "Alle Einträge als gelesen markieren"
+
+#: ../src/ui/menu.vala:12 ../src/ui/menu.vala:39
+msgid "Mark as read"
+msgstr "Als gelesen markieren"
+
+#: ../src/ui/menu.vala:40
+msgid "Mark as unread"
+msgstr "Als ungelesen markieren"
+
+#: ../src/ui/toolbar.vala:100
+msgid "Menu"
+msgstr "Menü"
+
+#: ../src/ui/folder.vala:24 ../src/ui/folder.vala:40
+#: ../src/ui/subscription.vala:29 ../src/ui/subscription.vala:52
+#, c-format
+msgid "Name"
+msgstr "Name"
+
+#: ../src/ui/menu.vala:15
+msgid "New"
+msgstr "Neu"
+
+#: ../src/ui/menu.vala:38
+msgid "Open in browser"
+msgstr "Im Browser öffnen"
+
+#: ../src/ui/preferences.vala:104 ../src/ui/toolbar.vala:64
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#: ../src/ui/menu.vala:14
+msgid "Properties"
+msgstr "Eigenschaften"
+
+#: ../src/ui/toolbar.vala:99
+msgid "Refresh all subscriptions"
+msgstr "Alle Abonnements aktualisieren"
+
+#: ../src/ui/statusbar.vala:52
+msgid "Remove selected subscription"
+msgstr "Markiertes Abonnement entfernen"
+
+#: ../src/ui/folder.vala:26 ../src/ui/subscription.vala:32
+msgid "Save"
+msgstr "Speichern"
+
+#: ../src/ui/contractor.vala:23
+msgid "Share channels or items"
+msgstr "Kanäle oder Einträge teilen"
+
+#: ../src/ui/preferences.vala:62
+msgid "Shrink image to fit:"
+msgstr "Bilder passgenau verkleinern:"
+
+#: ../src/ui/toolbar.vala:62
+msgid "Sidebar Visible"
+msgstr "Seitenleiste sichtbar"
+
+#: ../src/ui/menu.vala:16
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: ../src/ui/preferences.vala:86
+msgid "Subscriptions:"
+msgstr "Abonnements:"
+
+#: ../src/ui/preferences.vala:89
+msgid "Time interval between updates:"
+msgstr "Zeitabstand zwischen Aktualisierungen:"
+
+#: ../src/ui/toolbar.vala:57
+msgid "Type to Search..."
+msgstr "Tippen zum Suchen …"
+
+#: ../src/ui/subscription.vala:30
+msgid "URI"
+msgstr "URI"
+
+#: ../src/ui/subscription.vala:56
+#, c-format
+msgid "URI Address"
+msgstr "URI-Adresse"
+
+#: ../src/ui/infobar.vala:24
+msgid "Undo"
+msgstr "Rückgängig"
+
+#: ../src/indicator.vala:28
+msgid "Unread"
+msgstr "Ungelesen"
+
+#: ../src/indicator.vala:24 ../src/ui/menu.vala:11
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: ../src/ui/preferences.vala:111
+msgid "Updates"
+msgstr "Aktualisierungen"
+
+#: ../src/window.vala:503
+#, c-format
+msgid "Updating %s"
+msgstr "%s wird aktualisiert"
+
+#: ../src/window.vala:483 ../src/window.vala:509
+msgid "Updating subscriptions"
+msgstr "Abonnements werden aktualisiert"
+
+#: ../src/ui/preferences.vala:66
+msgid "Window:"
+msgstr "Fenster:"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feed"
+msgstr "neuer Feed"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feeds"
+msgstr "neue Feeds"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feed"
+msgstr "ungelesener Feed"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feeds"
+msgstr "ungelesene Feeds"

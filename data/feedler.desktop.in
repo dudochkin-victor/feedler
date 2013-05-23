@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.2
+Type=Application
+Name=Feedler
+GenericName=Feedler News Reader
+Comment=Download and view feeds
+Categories=GTK;Network;News;
+Exec=feedler
+Icon=internet-news-reader
+Terminal=false
+X-GNOME-Gettext-Domain=feedler

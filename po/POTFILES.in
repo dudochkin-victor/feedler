@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+data/feedler.desktop
+src/feedler-window.vala
+src/feedler-create-subscription.vala
+src/feedler-edit-subscription.vala
+src/feedler-toolbar.vala
+src/feedler-statusbar.vala
+

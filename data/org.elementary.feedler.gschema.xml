@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema path="/org/elementary/feedler/state/" id="org.elementary.feedler.state" gettext-domain="feedler">
+		<key name="view-mode" type="y">
+			<default>1</default>
+			<summary>Index of which view type to use</summary>
+			<description>Index of which view type to use</description>
+		</key>
+		<key name="sidebar-width" type="i">
+			<default>180</default>
+			<summary>Sidebar Width</summary>
+			<description>The saved width of the sidebar.</description>
+		</key>
+		<key name="window-height" type="i">
+			<default>520</default>
+			<summary>Window Height</summary>
+			<description>The saved height of the window.</description>
+		</key>
+		<key name="window-width" type="i">
+			<default>820</default>
+			<summary>Window Width</summary>
+			<description>The saved width of the window.</description>
+		</key>
+	</schema>
+	<schema path="/org/elementary/feedler/settings/" id="org.elementary.feedler.settings" gettext-domain="feedler">
+		<key name="enable-image" type="b">
+			<default>true</default>
+			<summary>Enable image</summary>
+			<description>Display images in web pages</description>
+		</key>
+		<key name="enable-script" type="b">
+			<default>true</default>
+			<summary>Enable script</summary>
+			<description>Enable scripts in web pages</description>
+		</key>
+		<key name="enable-java" type="b">
+			<default>true</default>
+			<summary>Enable Java</summary>
+			<description>Enable Java in web pages</description>
+		</key>
+		<key name="enable-plugin" type="b">
+			<default>true</default>
+			<summary>Enable plugin</summary>
+			<description>Enable plugins in web pages</description>
+		</key>
+		<key name="shrink-image" type="b">
+			<default>true</default>
+			<summary>Shrink image</summary>
+			<description>Shrink images in web pages</description>
+		</key>
+		<key name="browser-id" type="i">
+			<default>1</default>
+			<summary>Open links in</summary>
+			<description>Id of web browser</description>
+		</key>
+		<key name="browser-name" type="s">
+			<default>'browser_name %s'</default>
+			<summary>Command for run browser</summary>
+			<description>Command for manual web browser run with specific page</description>
+		</key>
+		<key name="hide-close" type="b">
+			<default>false</default>
+			<summary>Hiding or closing window</summary>
+			<description>Hiding window instead of closing</description>
+		</key>
+		<key name="hide-start" type="b">
+			<default>false</default>
+			<summary>Hide window on start</summary>
+			<description>Hide window on start to the messaging menu</description>
+		</key>
+		<key name="hide-header" type="b">
+			<default>false</default>
+			<summary>Hide sidebar's headers</summary>
+			<description>Hide additional headers in sidebar</description>
+		</key>
+		<key name="limit-items" type="i">
+			<default>100</default>
+			<summary>Limit of items</summary>
+			<description>Number of headers stored in the subscription</description>
+		</key>
+	</schema>
+	<schema path="/org/elementary/feedler/service/" id="org.elementary.feedler.service" gettext-domain="feedler">
+		<key name="auto-update" type="b">
+			<default>false</default>
+			<summary>Automatic update</summary>
+			<description>Automatic update subscriptions</description>
+		</key>
+		<key name="start-update" type="b">
+			<default>false</default>
+			<summary>Update on start</summary>
+			<description>Automatic update subscriptions on app start</description>
+		</key>
+		<key name="update-time" type="i">
+			<default>30</default>
+			<summary>Update interval</summary>
+			<description>Interval between updates</description>
+		</key>
+		<key type="as" name="uri">
+			<default>['']</default>
+			<summary>URIs to subscriptions</summary>
+			<description>Auto updated URIs</description>
+        </key>
+	</schema>
+</schemalist>

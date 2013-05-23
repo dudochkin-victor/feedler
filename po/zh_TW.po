@@ -1,0 +1,310 @@
+# Chinese (Traditional) translation for feedler
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the feedler package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: feedler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-29 08:01+0200\n"
+"PO-Revision-Date: 2012-07-06 08:41+0000\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-09 05:35+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+#: ../src/ui/view-cell.vala:53
+#, c-format
+msgid "%s, by %s"
+msgstr "%s，作者 %s"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Add a subscriptions from OPML file."
+msgstr "從 OPML 檔加入訂閱。"
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Add manually subscriptions from URL."
+msgstr "手動從網址加入訂閱。"
+
+#: ../src/ui/statusbar.vala:49
+msgid "Add new subscription URL"
+msgstr "加入新的訂閱網址"
+
+#: ../src/window.vala:674
+msgid "Are you sure you want to delete?"
+msgstr "您確定要刪除？"
+
+#: ../src/window.vala:633 ../src/window.vala:655
+msgid "Are you sure you want to mark as read?"
+msgstr "您確定要標記為已讀？"
+
+#: ../src/ui/preferences.vala:110
+msgid "Behavior"
+msgstr "動作"
+
+#: ../src/ui/folder.vala:30 ../src/ui/subscription.vala:36
+msgid "Cancel"
+msgstr "取消"
+
+#: ../src/ui/preferences.vala:60
+msgid "Content:"
+msgstr "內容："
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Create"
+msgstr "建立"
+
+#: ../src/ui/menu.vala:13
+msgid "Delete"
+msgstr "删除"
+
+#: ../src/ui/infobar.vala:21
+msgid "Dismiss"
+msgstr "撤銷"
+
+#: ../src/ui/menu.vala:37
+msgid "Display"
+msgstr "顯示"
+
+#: ../src/desktop-launcher.vala:13
+msgid "Download and view feeds"
+msgstr "下載並檢視饋流"
+
+#: ../src/ui/preferences.vala:91
+msgid "Download now all favicons:"
+msgstr "立刻下載所有的網站圖示："
+
+#: ../src/window.vala:526 ../src/window.vala:541
+msgid "Downloading favicons"
+msgstr "正在下載網站圖示"
+
+#: ../src/ui/preferences.vala:65
+msgid "Enable Java:"
+msgstr "啟用 Java："
+
+#: ../src/ui/preferences.vala:64
+msgid "Enable JavaScripts:"
+msgstr "啟用 JavaScripts："
+
+#: ../src/ui/preferences.vala:87
+msgid "Enable automatic updates:"
+msgstr "啟用自動更新："
+
+#: ../src/ui/preferences.vala:61
+msgid "Enable images:"
+msgstr "啟用影像："
+
+#: ../src/ui/preferences.vala:63
+msgid "Enable plugins:"
+msgstr "啟用插件："
+
+#: ../src/ui/preferences.vala:88
+msgid "Enable updates on start:"
+msgstr "啟用啟動時的更新："
+
+#: ../src/ui/contractor.vala:38
+msgid "Export subscriptions"
+msgstr "匯出訂閱"
+
+#: ../src/ui/preferences.vala:90
+msgid "Favicons:"
+msgstr "網站圖示："
+
+#: ../src/desktop-launcher.vala:14
+msgid "Feedler News Reader"
+msgstr "Feedler 新聞閱讀器"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Feedler can't seem to find your feeds."
+msgstr "Feedler 似乎找不到您的饋流。"
+
+#: ../src/ui/menu.vala:17 ../src/ui/subscription.vala:49
+#, c-format
+msgid "Folder"
+msgstr "資料夾"
+
+#: ../src/ui/toolbar.vala:63
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Get Some Feeds"
+msgstr "取得一些饋流"
+
+#: ../src/ui/statusbar.vala:58
+msgid "Go to the channel with unread items"
+msgstr "前往有未讀項目的頻道"
+
+#: ../src/ui/toolbar.vala:98
+msgid "Go to the next readed item"
+msgstr "前往下個閱讀的項目"
+
+#: ../src/ui/toolbar.vala:97
+msgid "Go to the previous readed item"
+msgstr "前往上個閱讀的項目"
+
+#: ../src/ui/preferences.vala:68
+msgid "Hide window on start to the messaging menu:"
+msgstr "啟動時隱藏視窗至訊息選單："
+
+#: ../src/ui/preferences.vala:67
+msgid "Hiding window instead of closing:"
+msgstr "隱藏視窗而不是將其關閉："
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Import"
+msgstr "匯入"
+
+#: ../src/ui/statusbar.vala:55
+msgid "Import subscription from OPML"
+msgstr "從 OPML 匯入訂閱"
+
+#: ../src/window.vala:330
+#, c-format
+msgid "Imported %i channels in %i folders."
+msgstr "已匯入 %i 個頻道於 %i 個資料夾中。"
+
+#: ../src/window.vala:579
+msgid "Importing subscriptions"
+msgstr "正在匯入訂閱"
+
+#: ../src/ui/subscription.vala:40
+msgid "Load favicon"
+msgstr "載入網站圖示"
+
+#: ../src/ui/statusbar.vala:61
+msgid "Mark all items as read"
+msgstr "將所有項目標記為已讀"
+
+#: ../src/ui/menu.vala:12 ../src/ui/menu.vala:39
+msgid "Mark as read"
+msgstr "標記為已讀"
+
+#: ../src/ui/menu.vala:40
+msgid "Mark as unread"
+msgstr "標記為未讀"
+
+#: ../src/ui/toolbar.vala:100
+msgid "Menu"
+msgstr "選單"
+
+#: ../src/ui/folder.vala:24 ../src/ui/folder.vala:40
+#: ../src/ui/subscription.vala:29 ../src/ui/subscription.vala:52
+#, c-format
+msgid "Name"
+msgstr "名稱"
+
+#: ../src/ui/menu.vala:15
+msgid "New"
+msgstr "新增"
+
+#: ../src/ui/menu.vala:38
+msgid "Open in browser"
+msgstr "以瀏覽器開啟"
+
+#: ../src/ui/preferences.vala:104 ../src/ui/toolbar.vala:64
+msgid "Preferences"
+msgstr "偏好設定"
+
+#: ../src/ui/menu.vala:14
+msgid "Properties"
+msgstr "屬性"
+
+#: ../src/ui/toolbar.vala:99
+msgid "Refresh all subscriptions"
+msgstr "重新整理所有訂閱"
+
+#: ../src/ui/statusbar.vala:52
+msgid "Remove selected subscription"
+msgstr "移除所選的訂閱"
+
+#: ../src/ui/folder.vala:26 ../src/ui/subscription.vala:32
+msgid "Save"
+msgstr "儲存"
+
+#: ../src/ui/contractor.vala:23
+msgid "Share channels or items"
+msgstr "分享頻道或項目"
+
+#: ../src/ui/preferences.vala:62
+msgid "Shrink image to fit:"
+msgstr "縮小影像以適應："
+
+#: ../src/ui/toolbar.vala:62
+msgid "Sidebar Visible"
+msgstr "側邊欄可視性"
+
+#: ../src/ui/menu.vala:16
+msgid "Subscription"
+msgstr "訂閱"
+
+#: ../src/ui/preferences.vala:86
+msgid "Subscriptions:"
+msgstr "訂閱："
+
+#: ../src/ui/preferences.vala:89
+msgid "Time interval between updates:"
+msgstr "更新之間的間隔："
+
+#: ../src/ui/toolbar.vala:57
+msgid "Type to Search..."
+msgstr "輸入以搜尋..."
+
+#: ../src/ui/subscription.vala:30
+msgid "URI"
+msgstr "網址"
+
+#: ../src/ui/subscription.vala:56
+#, c-format
+msgid "URI Address"
+msgstr "網址"
+
+#: ../src/ui/infobar.vala:24
+msgid "Undo"
+msgstr "取消動作"
+
+#: ../src/indicator.vala:28
+msgid "Unread"
+msgstr "未讀"
+
+#: ../src/indicator.vala:24 ../src/ui/menu.vala:11
+msgid "Update"
+msgstr "更新"
+
+#: ../src/ui/preferences.vala:111
+msgid "Updates"
+msgstr "更新"
+
+#: ../src/window.vala:503
+#, c-format
+msgid "Updating %s"
+msgstr "正在更新 %s"
+
+#: ../src/window.vala:483 ../src/window.vala:509
+msgid "Updating subscriptions"
+msgstr "正在更新訂閱"
+
+#: ../src/ui/preferences.vala:66
+msgid "Window:"
+msgstr "視窗："
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feed"
+msgstr "新饋流"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feeds"
+msgstr "新饋流"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feed"
+msgstr "未讀的饋流"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feeds"
+msgstr "未讀的饋流"

@@ -1,0 +1,310 @@
+# Estonian translation for feedler
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the feedler package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: feedler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-29 08:01+0200\n"
+"PO-Revision-Date: 2012-09-22 10:12+0000\n"
+"Last-Translator: Kristjan Vool <Unknown>\n"
+"Language-Team: Estonian <et@li.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-09 05:35+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+#: ../src/ui/view-cell.vala:53
+#, c-format
+msgid "%s, by %s"
+msgstr "%s - %s"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Add a subscriptions from OPML file."
+msgstr "Tellimuste lisamine OPML failidest."
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Add manually subscriptions from URL."
+msgstr "Lisa uudistevood käsitsi, sisestades URL."
+
+#: ../src/ui/statusbar.vala:49
+msgid "Add new subscription URL"
+msgstr "Lisa uus tellimuse URL"
+
+#: ../src/window.vala:674
+msgid "Are you sure you want to delete?"
+msgstr "Oled sa kindel, et soovid selle kustutada?"
+
+#: ../src/window.vala:633 ../src/window.vala:655
+msgid "Are you sure you want to mark as read?"
+msgstr "Oled sa kindel, et soovid selle märkida loetuks?"
+
+#: ../src/ui/preferences.vala:110
+msgid "Behavior"
+msgstr "Käitumine"
+
+#: ../src/ui/folder.vala:30 ../src/ui/subscription.vala:36
+msgid "Cancel"
+msgstr "Loobu"
+
+#: ../src/ui/preferences.vala:60
+msgid "Content:"
+msgstr "Sisu:"
+
+#: ../src/ui/cardlayout.vala:24
+msgid "Create"
+msgstr "Loo"
+
+#: ../src/ui/menu.vala:13
+msgid "Delete"
+msgstr "Kustuta"
+
+#: ../src/ui/infobar.vala:21
+msgid "Dismiss"
+msgstr "Tühista"
+
+#: ../src/ui/menu.vala:37
+msgid "Display"
+msgstr "Vaade"
+
+#: ../src/desktop-launcher.vala:13
+msgid "Download and view feeds"
+msgstr "Uudisvoogede allalaadimine ja vaatamine"
+
+#: ../src/ui/preferences.vala:91
+msgid "Download now all favicons:"
+msgstr "Kõikide veebilehtede ikoonide koheselt allalaadimine:"
+
+#: ../src/window.vala:526 ../src/window.vala:541
+msgid "Downloading favicons"
+msgstr "Veebilehtede ikoonide allalaadimine"
+
+#: ../src/ui/preferences.vala:65
+msgid "Enable Java:"
+msgstr "Java lubamine:"
+
+#: ../src/ui/preferences.vala:64
+msgid "Enable JavaScripts:"
+msgstr "Javaskriptide lubamine:"
+
+#: ../src/ui/preferences.vala:87
+msgid "Enable automatic updates:"
+msgstr "Automaatse uuendamise lubamine:"
+
+#: ../src/ui/preferences.vala:61
+msgid "Enable images:"
+msgstr "Piltide lubamine:"
+
+#: ../src/ui/preferences.vala:63
+msgid "Enable plugins:"
+msgstr "Pluginate lubamine:"
+
+#: ../src/ui/preferences.vala:88
+msgid "Enable updates on start:"
+msgstr "Uuenduste lubamine käivitamisel:"
+
+#: ../src/ui/contractor.vala:38
+msgid "Export subscriptions"
+msgstr "Ekspordi tellimusi"
+
+#: ../src/ui/preferences.vala:90
+msgid "Favicons:"
+msgstr "Veebilehtede ikoonid:"
+
+#: ../src/desktop-launcher.vala:14
+msgid "Feedler News Reader"
+msgstr "Feedler News Reader"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Feedler can't seem to find your feeds."
+msgstr "Feedler ei leia sinu uudistevooge."
+
+#: ../src/ui/menu.vala:17 ../src/ui/subscription.vala:49
+#, c-format
+msgid "Folder"
+msgstr "Kaust"
+
+#: ../src/ui/toolbar.vala:63
+msgid "Fullscreen"
+msgstr "Täisekraan"
+
+#: ../src/ui/cardlayout.vala:23
+msgid "Get Some Feeds"
+msgstr "Mõningate uudistevoogude tellimine"
+
+#: ../src/ui/statusbar.vala:58
+msgid "Go to the channel with unread items"
+msgstr "Ava kanal, mis sisaldab lugemata kirjeid"
+
+#: ../src/ui/toolbar.vala:98
+msgid "Go to the next readed item"
+msgstr "Mine järgnevalt loetud kirjale"
+
+#: ../src/ui/toolbar.vala:97
+msgid "Go to the previous readed item"
+msgstr "Mine eelnevalt loetud kirjale"
+
+#: ../src/ui/preferences.vala:68
+msgid "Hide window on start to the messaging menu:"
+msgstr "Akna peitmine käivitamisel, et kuvada sõnumite menüüsse:"
+
+#: ../src/ui/preferences.vala:67
+msgid "Hiding window instead of closing:"
+msgstr "Akna peitmine sulgemise asemel:"
+
+#: ../src/ui/cardlayout.vala:25
+msgid "Import"
+msgstr "Impordi"
+
+#: ../src/ui/statusbar.vala:55
+msgid "Import subscription from OPML"
+msgstr "Impordi tellimusi OPML-ist"
+
+#: ../src/window.vala:330
+#, c-format
+msgid "Imported %i channels in %i folders."
+msgstr "Impordtitud %i kanalid %i kausta."
+
+#: ../src/window.vala:579
+msgid "Importing subscriptions"
+msgstr "Tellimuste importimine"
+
+#: ../src/ui/subscription.vala:40
+msgid "Load favicon"
+msgstr "Laadi veebilehe ikoon"
+
+#: ../src/ui/statusbar.vala:61
+msgid "Mark all items as read"
+msgstr "Märgi kõik kirjed loetuks"
+
+#: ../src/ui/menu.vala:12 ../src/ui/menu.vala:39
+msgid "Mark as read"
+msgstr "Märgi loetuks"
+
+#: ../src/ui/menu.vala:40
+msgid "Mark as unread"
+msgstr "Märgi mitteloetuks"
+
+#: ../src/ui/toolbar.vala:100
+msgid "Menu"
+msgstr "Menüü"
+
+#: ../src/ui/folder.vala:24 ../src/ui/folder.vala:40
+#: ../src/ui/subscription.vala:29 ../src/ui/subscription.vala:52
+#, c-format
+msgid "Name"
+msgstr "Nimi"
+
+#: ../src/ui/menu.vala:15
+msgid "New"
+msgstr "Uus"
+
+#: ../src/ui/menu.vala:38
+msgid "Open in browser"
+msgstr "Ava veebibrauseris"
+
+#: ../src/ui/preferences.vala:104 ../src/ui/toolbar.vala:64
+msgid "Preferences"
+msgstr "Eelistused"
+
+#: ../src/ui/menu.vala:14
+msgid "Properties"
+msgstr "Omadused"
+
+#: ../src/ui/toolbar.vala:99
+msgid "Refresh all subscriptions"
+msgstr "Taaslaadi kõiki tellimusi"
+
+#: ../src/ui/statusbar.vala:52
+msgid "Remove selected subscription"
+msgstr "Eemalda valitud tellimus"
+
+#: ../src/ui/folder.vala:26 ../src/ui/subscription.vala:32
+msgid "Save"
+msgstr "Salvesta"
+
+#: ../src/ui/contractor.vala:23
+msgid "Share channels or items"
+msgstr "Kanalite või toodete jagamine"
+
+#: ../src/ui/preferences.vala:62
+msgid "Shrink image to fit:"
+msgstr "Pildi kahandamine sobivaks:"
+
+#: ../src/ui/toolbar.vala:62
+msgid "Sidebar Visible"
+msgstr "Külgpaneel nähtav"
+
+#: ../src/ui/menu.vala:16
+msgid "Subscription"
+msgstr "Tellimus"
+
+#: ../src/ui/preferences.vala:86
+msgid "Subscriptions:"
+msgstr "Tellimused:"
+
+#: ../src/ui/preferences.vala:89
+msgid "Time interval between updates:"
+msgstr "Uuenduste ajavahemik:"
+
+#: ../src/ui/toolbar.vala:57
+msgid "Type to Search..."
+msgstr "Kirjuta otsimiseks..."
+
+#: ../src/ui/subscription.vala:30
+msgid "URI"
+msgstr "URI"
+
+#: ../src/ui/subscription.vala:56
+#, c-format
+msgid "URI Address"
+msgstr "URI aadress"
+
+#: ../src/ui/infobar.vala:24
+msgid "Undo"
+msgstr "Võta tagasi"
+
+#: ../src/indicator.vala:28
+msgid "Unread"
+msgstr "Lugemata"
+
+#: ../src/indicator.vala:24 ../src/ui/menu.vala:11
+msgid "Update"
+msgstr "Uuenda"
+
+#: ../src/ui/preferences.vala:111
+msgid "Updates"
+msgstr "Uuendamine"
+
+#: ../src/window.vala:503
+#, c-format
+msgid "Updating %s"
+msgstr "%s uuendamine"
+
+#: ../src/window.vala:483 ../src/window.vala:509
+msgid "Updating subscriptions"
+msgstr "Tellimuste uuendamie"
+
+#: ../src/ui/preferences.vala:66
+msgid "Window:"
+msgstr "Aken:"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feed"
+msgstr "uus uudistevoog"
+
+#: ../src/manager.vala:126 ../src/window.vala:297
+msgid "new feeds"
+msgstr "uued uudistevood"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feed"
+msgstr "lugemata uudistevoog"
+
+#: ../src/ui/statusbar.vala:74
+msgid "unread feeds"
+msgstr "lugemata uudistevood"
